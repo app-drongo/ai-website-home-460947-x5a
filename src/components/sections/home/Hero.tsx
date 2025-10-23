@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: Smart Home Solutions',
-  title: 'Transform your house into a',
+  title: 'Get your house into',
   titleHighlight: 'Smart Connected Home',
   description:
     'Experience the future of living with our comprehensive smart home automation system. Control lighting, security, climate, and entertainment from anywhere.',
